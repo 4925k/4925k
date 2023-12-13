@@ -22,11 +22,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- <p><b>Programming Languages:</b> Go, Python</p>
-- <p><b>Databases:</b> MySQL, PostgreSQL</p>
-- <p><b>DevOps:</b> Docker, Bash</p>
-- <p><b>Cloud:</b> AWS</p>
-- <p><b>OS:</b> Windows, Linux, MacOS</p>
+<p><b>- Programming Languages:</b> Go, Python</p>
+<p><b>- Databases:</b> MySQL, PostgreSQL</p>
+<p><b>- DevOps:</b> Docker, Bash</p>
+<p><b>- Cloud:</b> AWS</p>
+<p><b>- OS:</b> Windows, Linux, MacOS</p>
 
 <p></p>
 
