@@ -22,12 +22,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Programming Languages: Go, Python</p>
-<p>Databases: MySQL, PostgreSQL</p>
-<p>DevOps: Docker, Bash</p>
-<p>Cloud: AWS</p>
-<p>OS: Windows, Linux, MacOS</p>
+<p><b>Programming Languages:</b> Go, Python</p>
+<p><b>Databases:</b> MySQL, PostgreSQL</p>
+<p><b>DevOps:</b> Docker, Bash</p>
+<p><b>Cloud:</b> AWS</p>
+<p><b>OS:</b> Windows, Linux, MacOS</p>
 
+<p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4925k&show_icons=true&locale=en&layout=compact" alt="4925k" /></p>
 
