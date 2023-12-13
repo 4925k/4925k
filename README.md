@@ -1,38 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dibek</h1>
-<h3 align="center">A passionate Golang developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4925k&label=Profile%20views&color=0e75b6&style=flat" alt="4925k" /> </p>
+# Hi there!
 
-- 🔭 I’m currently working on [Greenlight](https://github.com/4925k/greenlight)
+I'm a passionate Backend Golang Engineer with 4 years of experience under my belt. I thrive on crafting robust, efficient, and scalable solutions, and I'm always eager to learn new technologies and expand my skillset.
 
-- 🌱 I’m currently learning **AWS**
+My quick learning ability and adaptability allow me to seamlessly integrate into new teams and environments, while my problem-solving skills and attention to detail ensure that I deliver high-quality work.
 
-- 👨‍💻 All of my projects are available at [https://github.com/4925k](https://github.com/4925k)
+I'm driven by a desire to constantly improve myself and contribute to impactful projects. Whether it's building innovative features or optimizing existing systems, I'm always up for a challenge.
 
-- 💬 Ask me about **Golang**
+Looking forward to connecting with fellow tech enthusiasts and exploring exciting opportunities!
 
-- 📫 How to reach me **dibekpoudyal@gmail.com**
+## Links
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dibek/](https://www.linkedin.com/in/dibek/)
+| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibek/)  | [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dibekpoudyal/)     | 
+| :-------- | :------- |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dibekpoudyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dibekpoudyal" height="30" width="40" /></a>
-</p>
+## 🛠 Skills
+- **Backend:** Go, Python
+- **Cloud:** AWS
+- **Development:** Git, Bitbucket, Docker
+- **Databases:** Postgres, MySQL
+- **Management:** Jira, Confluence
+- **Systems:** Linux, Mac, Windows
+- **Methodologies:** Scrum, Kanban
+- **Architecture:** Microservices
+- **Other:** RESTful APIs, ELK Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p><b>- Programming Languages:</b> Go, Python</p>
-<p><b>- Databases:</b> MySQL, PostgreSQL</p>
-<p><b>- DevOps:</b> Docker, Bash</p>
-<p><b>- Cloud:</b> AWS</p>
-<p><b>- OS:</b> Windows, Linux, MacOS</p>
-
-<p></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4925k&show_icons=true&locale=en&layout=compact" alt="4925k" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4925k&show_icons=true&locale=en" alt="4925k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4925k&" alt="4925k" /></p>
-
+## Books And Resources I have gone through
+- Neetcode (currently going through)
+- AWS Developer (preparing for a certification)
+- Learn Go With Tests
+- Let's Go
+- Let's Go Further
