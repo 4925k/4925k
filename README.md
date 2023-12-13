@@ -31,3 +31,4 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 - Learn Go With Tests
 - Let's Go
 - Let's Go Further
+- CS50: Introduction to Computer Science (Harvard, Edx)
