@@ -22,12 +22,14 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 - **Management:** Jira, Confluence
 - **Systems:** Linux, Mac, Windows
 - **Methodologies:** Scrum, Kanban
-- **Architecture:** Microservices
+- **Architecture:** Microservices. DDD
 - **Other:** RESTful APIs, ELK Stack
 
 ## Books And Resources I have gone through
-- Neetcode (currently going through)
-- AWS Developer (preparing for a certification)
+- > Current: Neetcode (DSA And System Designs)
+- > Current: AWS CCP
+- > Current: DevOps with Docker
+- > Current: Ardan Labs: Ultimate Web Services with Kubernetes
 - Learn Go With Tests
 - Let's Go
 - Let's Go Further
