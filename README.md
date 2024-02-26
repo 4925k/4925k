@@ -1,6 +1,8 @@
 
 # Hi there!
 
+Currently on my Training Arc 2024 where I have planned to learn a little every day including but not limited to AWS SA, DevOps (Docker + Kubernetes) and Advanced Algorihtms (Neetcode + Leetcode). 
+
 I'm a passionate Backend Golang Engineer with 4 years of experience under my belt. I thrive on crafting robust, efficient, and scalable solutions, and I'm always eager to learn new technologies and expand my skillset.
 
 My quick learning ability and adaptability allow me to seamlessly integrate into new teams and environments, while my problem-solving skills and attention to detail ensure that I deliver high-quality work.
@@ -26,10 +28,11 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 - **Other:** RESTful APIs, ELK Stack
 
 ## Books And Resources I have gone through
-- > Current: Neetcode (DSA And System Designs)
-- > Current: AWS CCP
-- > Current: DevOps with Docker
-- > Current: Ardan Labs: Ultimate Web Services with Kubernetes
+- > Current: Neetcode Advanced Algorithms
+- > Current: AWS SA
+- > Current: DevOps with Kubernetes
+- DSA And System Designs
+- Docker
 - Learn Go With Tests
 - Let's Go
 - Let's Go Further
