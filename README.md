@@ -19,21 +19,20 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 ## 🛠 Skills
 - **Backend:** Go, Python
 - **Cloud:** AWS
-- **Development:** Git, Bitbucket, Docker
-- **Databases:** Postgres, MySQL
-- **Management:** Jira, Confluence
+- **Development:** Git, Bitbucket, Docker, Kubernetes
+- **Databases:** Postgres, MySQL, Redis, DynamoDB
+- **Management:** Jira, Confluence, Clickup, Teams
 - **Systems:** Linux, Mac, Windows
 - **Methodologies:** Scrum, Kanban
-- **Architecture:** Microservices. DDD
+- **Architecture:** Monolith, Microservices, DDD
 - **Other:** RESTful APIs, ELK Stack
 
 ## Books And Resources I have gone through
 - > Current: Neetcode Advanced Algorithms
 - > Current: AWS SA
 - > Current: DevOps with Kubernetes
-- DSA And System Designs
-- Docker
-- Learn Go With Tests
-- Let's Go
-- Let's Go Further
-- CS50: Introduction to Computer Science (Harvard, Edx)
+- AWS CCP from Whizlabs & Freecodecamp
+- DSA And System Designs By Neetcode
+- DockerWithDevops By University of Helsinki
+- Let's Go & Let's Go Further By Alex Edwards
+- CS50: Introduction to Computer Science By Harvard (Edx)
