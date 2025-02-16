@@ -15,8 +15,8 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 | :-------- | :------- |
 
 ## 🛠 Skills
-- **Backend:** Go, Python
-- **Cloud:** AWS
+- **Backend:** Go
+- **Cloud:** AWS, GCP
 - **Development:** Git, Bitbucket, Docker, Kubernetes
 - **Databases:** Postgres, MySQL, Redis, DynamoDB
 - **Management:** Jira, Confluence, Clickup, Teams
@@ -26,9 +26,9 @@ Looking forward to connecting with fellow tech enthusiasts and exploring excitin
 - **Other:** RESTful APIs, ELK Stack
 
 ## Books And Resources I have gone through
-- > Current: Neetcode Advanced Algorithms
-- > Current: AWS SA
-- > Current: DevOps with Kubernetes
+- Neetcode Advanced Algorithms
+- AWS SA
+- DevOps with Kubernetes
 - AWS CCP from Whizlabs & Freecodecamp
 - DSA And System Designs By Neetcode
 - DockerWithDevops By University of Helsinki
